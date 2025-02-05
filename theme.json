@@ -1,0 +1,9 @@
+{
+    "name": "Praetorian",
+    "version": "1.0",
+    "description": "Default phpMyAdmin theme dark",
+    "author": "RG",
+    "url": "https://www.phpmyadmin.net/",
+    "supports": ["6.0"],
+    "colorModes": ["dark"]
+}
